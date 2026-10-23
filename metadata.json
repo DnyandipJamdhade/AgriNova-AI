@@ -1,0 +1,6 @@
+{
+  "name": "AgriNova AI",
+  "description": "Next-generation enterprise AgriTech SaaS platform combining real-time IoT sensor telemetry, predictive crop yield modeling, satellite GIS, computer vision plant pathology, and farm-to-market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
